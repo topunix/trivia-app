@@ -1,6 +1,6 @@
-# Full Stack API Final Project
-
 ## Full Stack Trivia
+
+![trivia](https://user-images.githubusercontent.com/833824/82157851-df0a7980-9851-11ea-8b0d-a79c7763789d.jpg)
 
 Udacity is invested in creating bonding experiences for its employees and students. A bunch of team members got the idea to hold trivia on a regular basis and created a  webpage to manage the trivia app and play the game, but their API experience is limited and still needs to be built out. 
 
