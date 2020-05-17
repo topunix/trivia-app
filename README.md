@@ -1,4 +1,4 @@
-## Full Stack Trivia
+# Full Stack Trivia
 
 ![trivia](https://user-images.githubusercontent.com/833824/82157851-df0a7980-9851-11ea-8b0d-a79c7763789d.jpg)
 
