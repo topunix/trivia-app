@@ -17,7 +17,9 @@ This trivia app offers the following features:
 
 ### Backend
 
-The `./backend` directory contains a Flask and SQLAlchemy server. The app.py file defines the endpoints and references models.py for the DB and SQLAlchemy setup. 
+The `./backend` directory contains a Flask and SQLAlchemy server. The app.py file defines the endpoints and references models.py for the DB and SQLAlchemy setup.
+
+[View the README.md within ./backend for more details.](./backend/README.md) 
 
 ### Frontend
 
