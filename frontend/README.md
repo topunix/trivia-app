@@ -1,4 +1,4 @@
-# Full Stack Trivia API  Frontend
+# Full Stack Trivia API Frontend
 
 ## Getting Setup
 
@@ -8,19 +8,17 @@
 
 #### Installing Node and NPM
 
-This project depends on Nodejs and Node Package Manager (NPM). Before continuing, you must download and install Node (the download includes NPM) from [https://nodejs.com/en/download](https://nodejs.org/en/download/).
+This app depends on Nodejs and Node Package Manager (NPM). Before continuing, you must download and install Node (the download includes NPM) from [https://nodejs.com/en/download](https://nodejs.org/en/download/).
 
 #### Installing project dependencies
 
-This project uses NPM to manage software dependencies. NPM Relies on the package.json file located in the `frontend` directory of this repository. After cloning, open your terminal and run:
+This app uses NPM to manage software dependencies. NPM Relies on the package.json file located in the `frontend` directory of this repository. After cloning, open your terminal and run:
 
 ```bash
 npm install
 ```
 
 >_tip_: **npm i** is shorthand for **npm install**
-
-## Required Tasks
 
 ## Running Your Frontend in Dev Mode
 
@@ -40,12 +38,6 @@ After you complete your endpoints, ensure you return to and update the frontend 
 - Correct endpoints
 - Update response body handling 
 
-## Optional: Styling
+## Styling
 
 In addition, you may want to customize and style the frontend by editing the CSS in the ```stylesheets``` folder. 
-
-## Optional: Game Play Mechanics
-
-Currently, when a user plays the game they play up to five questions of the chosen category. If there are fewer than five questions in a category, the game will end when there are no more questions in that category. 
-
-You can optionally update this game play to increase the number of questions or whatever other game mechanics you decide. Make sure to specify the new mechanics of the game in the README of the repo you submit so the reviewers are aware that the behavior is correct. 
