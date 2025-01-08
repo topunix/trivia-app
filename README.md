@@ -4,17 +4,14 @@
 
 ## Introduction
 
-Udacity is invested in creating bonding experiences for its employees and students. A bunch of team members got the idea to hold trivia on a regular basis and created a webpage to manage the trivia app and play the game.
+Udacity is dedicated to fostering bonding experiences for its employees and students. To promote this, a team of members developed and launched a trivia app that is now regularly used for team-building activities.
 
-The full stack trivia application must:
+This trivia app offers the following features:
 
-1) Display questions - both all questions and by category. Questions should show the question, category and difficulty rating by default and can show/hide the answer. 
-2) Delete questions.
-3) Add questions and require that they include question and answer text.
-4) Search for questions based on a text query string.
-5) Play the quiz game, randomizing either all questions or within a specific category. 
-
-This trivia app will give you the ability to structure plan, implement, and test an API - skills essential for enabling applications to communicate with others. 
+1. **Question Display**: Users can view trivia questions categorized by topic, with the option to display the question, category, difficulty, and hide/show the answer.
+2. **Question Management**: Questions can be added or deleted, with each new question requiring both the question and its corresponding answer text.
+3. **Search Functionality**: A search feature allows users to find questions based on specific text queries.
+4. **Game Mode**: Users can play a quiz game where questions are randomized either from all categories or from a specific category, adding a fun and engaging element to the experience.
 
 ## About the Stack
 
@@ -25,7 +22,5 @@ The `./backend` directory contains a Flask and SQLAlchemy server. The app.py fil
 ### Frontend
 
 The `./frontend` directory contains a complete React frontend to consume the data from the Flask server. 
-
-Pay special attention to the data the frontend is expecting from each API response to help you understand how to format your API. 
 
 [View the README.md within ./frontend for more details.](./frontend/README.md)
