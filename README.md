@@ -1,10 +1,10 @@
-# Full Stack Trivia
+# Full Stack Trivia App
 
 ![trivia](https://user-images.githubusercontent.com/833824/82157851-df0a7980-9851-11ea-8b0d-a79c7763789d.jpg)
 
 ## Introduction
 
-Udacity is dedicated to fostering bonding experiences for its employees and students. To promote this, a team of members developed and launched a trivia app that is now regularly used for team-building activities.
+Udacitrivia is a trivia app that is now regularly used for team-building activities.
 
 This trivia app offers the following features:
 
