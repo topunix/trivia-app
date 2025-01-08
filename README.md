@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Udacitrivia is a trivia app that is now regularly used for team-building activities.
+Udacitrivia is a fun trivia app that can be used for team-building activities.
 
 This trivia app offers the following features:
 
